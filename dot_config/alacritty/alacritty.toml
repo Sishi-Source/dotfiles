@@ -1,0 +1,11 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/custom.toml"
+]
+
+[window]
+dynamic_padding = true
+opacity = 0.8
+
+[font]
+normal = { family = "Sauce Code Pro Nerd Font Mono", style = "Regular" }
