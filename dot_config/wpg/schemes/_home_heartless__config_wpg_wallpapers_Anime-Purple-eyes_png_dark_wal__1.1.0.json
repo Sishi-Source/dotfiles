@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/heartless/.config/wpg/wallpapers/Anime-Purple-eyes.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020104",
+        "foreground": "#ffd9ff",
+        "cursor": "#ffd9ff"
+    },
+    "colors": {
+        "color0": "#020104",
+        "color1": "#3F2D81",
+        "color2": "#5E48A5",
+        "color3": "#5B3CA1",
+        "color4": "#4C3591",
+        "color5": "#965ADD",
+        "color6": "#7850C7",
+        "color7": "#d6a8e2",
+        "color8": "#120136",
+        "color9": "#4b2fb3",
+        "color10": "#724ee5",
+        "color11": "#703fdf",
+        "color12": "#5c37c9",
+        "color13": "#c160ff",
+        "color14": "#9655ff",
+        "color15": "#ffd9ff"
+    }
+}

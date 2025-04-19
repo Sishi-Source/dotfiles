@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/heartless/.config/wpg/wallpapers/Dark_Nature.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050608",
+        "foreground": "#eff3f4",
+        "cursor": "#eff3f4"
+    },
+    "colors": {
+        "color0": "#050608",
+        "color1": "#5B605F",
+        "color2": "#5B6465",
+        "color3": "#3C4346",
+        "color4": "#4A5254",
+        "color5": "#575E60",
+        "color6": "#646C6D",
+        "color7": "#b4b7b8",
+        "color8": "#171c27",
+        "color9": "#6a8882",
+        "color10": "#698b8f",
+        "color11": "#455a63",
+        "color12": "#567077",
+        "color13": "#658088",
+        "color14": "#74969b",
+        "color15": "#eff3f4"
+    }
+}

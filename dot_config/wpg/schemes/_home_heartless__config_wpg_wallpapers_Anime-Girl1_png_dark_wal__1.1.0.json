@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/heartless/.config/wpg/wallpapers/Anime-Girl1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0a19",
+        "foreground": "#b5ffff",
+        "cursor": "#b5ffff"
+    },
+    "colors": {
+        "color0": "#0c0a19",
+        "color1": "#C74362",
+        "color2": "#584E88",
+        "color3": "#F5AC73",
+        "color4": "#413E84",
+        "color5": "#B76B8E",
+        "color6": "#18648E",
+        "color7": "#88cbdc",
+        "color8": "#1c173d",
+        "color9": "#ff4576",
+        "color10": "#6957be",
+        "color11": "#ffdc7e",
+        "color12": "#4843b8",
+        "color13": "#ff78b7",
+        "color14": "#1485c3",
+        "color15": "#b5ffff"
+    }
+}

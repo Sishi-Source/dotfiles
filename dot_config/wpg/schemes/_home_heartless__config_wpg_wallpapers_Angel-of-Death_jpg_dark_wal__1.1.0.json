@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/heartless/.config/wpg/wallpapers/Angel-of-Death.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F1231",
+        "foreground": "#c4ffff",
+        "cursor": "#c4ffff"
+    },
+    "colors": {
+        "color0": "#0F1231",
+        "color1": "#8F76A0",
+        "color2": "#636098",
+        "color3": "#1D3195",
+        "color4": "#3758C5",
+        "color5": "#A676B5",
+        "color6": "#2A4EA8",
+        "color7": "#96d7eb",
+        "color8": "#1a1f57",
+        "color9": "#bd87e2",
+        "color10": "#726cd5",
+        "color11": "#1a37cd",
+        "color12": "#3769ff",
+        "color13": "#e186fe",
+        "color14": "#285fe8",
+        "color15": "#c4ffff"
+    }
+}

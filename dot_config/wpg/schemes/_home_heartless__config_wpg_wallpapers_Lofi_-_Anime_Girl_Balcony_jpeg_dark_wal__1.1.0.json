@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/heartless/.config/wpg/wallpapers/Lofi_-_Anime_Girl_Balcony.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0912",
+        "foreground": "#ffd7ff",
+        "cursor": "#ffd7ff"
+    },
+    "colors": {
+        "color0": "#0f0912",
+        "color1": "#955BB1",
+        "color2": "#4C3BA6",
+        "color3": "#6B48A6",
+        "color4": "#292E95",
+        "color5": "#A057A1",
+        "color6": "#4D4EAB",
+        "color7": "#e2a6c5",
+        "color8": "#2b1934",
+        "color9": "#c764f7",
+        "color10": "#583ee6",
+        "color11": "#874ee7",
+        "color12": "#2830ce",
+        "color13": "#df60e1",
+        "color14": "#5355ee",
+        "color15": "#ffd7ff"
+    }
+}

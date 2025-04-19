@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/heartless/.config/wpg/wallpapers/Anime-Momo-Dandadan-2.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#110a12",
+        "foreground": "#ffdef6",
+        "cursor": "#ffdef6"
+    },
+    "colors": {
+        "color0": "#110a12",
+        "color1": "#BC6283",
+        "color2": "#3D1690",
+        "color3": "#4914AC",
+        "color4": "#5416C6",
+        "color5": "#C95F83",
+        "color6": "#4F21C1",
+        "color7": "#e0aec0",
+        "color8": "#2f1b32",
+        "color9": "#ff6ca5",
+        "color10": "#4b11c6",
+        "color11": "#5b0dec",
+        "color12": "#680eff",
+        "color13": "#ff68a4",
+        "color14": "#601cff",
+        "color15": "#ffdef6"
+    }
+}

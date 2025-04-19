@@ -1,0 +1,9 @@
+[colors]
+background={color0.rgba}
+text={color1.strip}
+match={color2.strip}
+border={color3.strip}
+selection={color4.strip}
+selection-text={color5.strip}
+selection-match={color6.strip}
+
