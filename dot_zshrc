@@ -54,7 +54,7 @@ alias czdiff='chezmoi diff'
 alias czapply='chezmoi apply'
 
 # Distrobox -- ROS
-alias distroROS='distrobox enter ROS -a "--env QT_QPA_PLATFORM=xcb;wayland SHELL=/usr/bin/zsh" -- zsh --login'
+alias distroROS='distrobox enter ROS -a "--env QT_QPA_PLATFORM=xcb;wayland" -a "--env SHELL=/usr/bin/zsh"'
 
 ros2_on(){
     export PATH=$HOME/.cargo/bin:$PATH
@@ -64,4 +64,6 @@ ros2_on(){
     source /opt/ros/jazzy/setup.zsh
     source /usr/share/colcon_cd/function/colcon_cd.sh
     source /usr/share/colcon_argcomplete/hook/colcon-argcomplete.zsh
+
+    cd $HOME/Documents/ROS
 }
