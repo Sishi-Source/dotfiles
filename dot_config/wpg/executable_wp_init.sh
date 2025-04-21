@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-wpg -nrs 'Anime-Purple-eyes.png' 'Anime-Purple-eyes.png'
+wpg -nrs 'Dark_Nature.png' 'Dark_Nature.png'

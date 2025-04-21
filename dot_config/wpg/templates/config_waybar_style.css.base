@@ -65,7 +65,6 @@ tooltip label {
 }
 
 #custom-media,
-#custom-updates,
 #backlight,
 #pulseaudio,
 #battery,

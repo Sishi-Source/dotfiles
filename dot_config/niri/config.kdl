@@ -107,6 +107,7 @@ layout {
 spawn-at-startup "waybar"
 spawn-at-startup "swaync"
 spawn-at-startup "xwayland-satellite"
+spawn-at-startup "swayosd-server"
 spawn-at-startup "/home/heartless/.config/niri/startup.sh"
 spawn-at-startup "wl-paste" "--type" "text" "--watch" "cliphist" "store"
 spawn-at-startup "wl-paste" "--type" "image" "--watch" "cliphist" "store"

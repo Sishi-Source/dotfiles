@@ -47,10 +47,17 @@ fi
 # Colored Output
 alias dmesg='dmesg --color=always'
 
+# Chezmoi Alias
+alias czcd='chezmoi cd'
+alias czedit='chezmoi edit'
+alias czdiff='chezmoi diff'
+alias czapply='chezmoi apply'
+
 # Distrobox -- ROS
-alias distroROS='distrobox enter ROS -a "--env QT_QPA_PLATFORM=xcb;wayland" -- zsh --login'
+alias distroROS='distrobox enter ROS -a "--env QT_QPA_PLATFORM=xcb;wayland SHELL=/usr/bin/zsh" -- zsh --login'
 
 ros2_on(){
+    export PATH=$HOME/.cargo/bin:$PATH
     export ROS_DOMAIN_ID=4
     export _colcon_cd_root=/opt/ros/jazzy/
 
