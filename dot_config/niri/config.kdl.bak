@@ -68,7 +68,7 @@ layout {
 
     focus-ring {
         // off
-        width 2
+        width 4
         active-color "#7fc8ff"
         inactive-color "#505050"
         // active-gradient from="#80c8ff" to="#bbddff" angle=45
@@ -150,7 +150,7 @@ window-rule {
 }
 
 window-rule {
-    geometry-corner-radius 0
+    geometry-corner-radius 8
     clip-to-geometry true
 }
 //-----------// Window Rule //-----------//

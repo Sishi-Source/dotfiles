@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/heartless/.config/wpg/wallpapers/Morgiana.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080303",
+        "foreground": "#fffaed",
+        "cursor": "#fffaed"
+    },
+    "colors": {
+        "color0": "#080303",
+        "color1": "#D3483A",
+        "color2": "#A1847A",
+        "color3": "#F09071",
+        "color4": "#E56551",
+        "color5": "#F56592",
+        "color6": "#F2AE95",
+        "color7": "#ead7cc",
+        "color8": "#2e0e0e",
+        "color9": "#ff4f39",
+        "color10": "#e3a28c",
+        "color11": "#ffaf7b",
+        "color12": "#ff7455",
+        "color13": "#ff6cb5",
+        "color14": "#ffd6a8",
+        "color15": "#fffaed"
+    }
+}
