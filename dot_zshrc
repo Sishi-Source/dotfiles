@@ -23,6 +23,7 @@ source $ZSH/oh-my-zsh.sh
 # User Configuration #
 ######################
 
+fpath=(~/.config/zellij $fpath)
 export EDITOR='nvim'
 
 # zsh-autosuggestions
@@ -52,6 +53,10 @@ alias czcd='chezmoi cd'
 alias czedit='chezmoi edit'
 alias czdiff='chezmoi diff'
 alias czapply='chezmoi apply'
+
+# PlatformIO Alias
+alias pioup='pio run -t upload'
+alias pio-monitor='pio device monitor'
 
 # Distrobox -- ROS
 alias distroROS='distrobox enter ROS -a "--env QT_QPA_PLATFORM=xcb;wayland" -a "--env SHELL=/usr/bin/zsh"'
